@@ -1,3 +1,4 @@
+
 public class Heure {
 	
 	private int heures;
@@ -22,5 +23,5 @@ public class Heure {
 
 	}
 
-/*Bonjour*/
+/*Salut*/
 }
