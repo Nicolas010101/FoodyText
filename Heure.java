@@ -10,4 +10,12 @@ public class Heure {
 	
 	}
 
+	public int getMinutes() {
+		return minutes ;
+	}
+
+	public int getHeures() {
+		return heures ;
+	}
+
 }
