@@ -23,5 +23,16 @@ public class Heure {
 
 	}
 
-/*Salut*/
+	public void setHeures(int heures){
+	
+	this.heures = heures;
+	
+	}
+
+	public void setMinutes(int minutes){
+	
+	this.minutes = minutes;
+
+	}
+/*J'ai fais tes setters*/
 }
